@@ -1,2 +1,3 @@
-# FlexBox-CSS-DIO
-Projeto ultilizando CSS
+# Projeto de Página Responsiva
+
+Página responsiva ultilizando flexbox
